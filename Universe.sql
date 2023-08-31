@@ -249,7 +249,7 @@ INSERT INTO public.galaxy VALUES (2, NULL, NULL, NULL, 'chocolate way', 'chocky'
 INSERT INTO public.galaxy VALUES (4, NULL, NULL, NULL, 'salty way', 'sssalty');
 INSERT INTO public.galaxy VALUES (5, NULL, NULL, NULL, 'OMEGA88', 'OMG');
 INSERT INTO public.galaxy VALUES (6, NULL, NULL, NULL, 'idk', 'idek');
-INSERT INTO public.galaxy VALUES (3, NULL, false, NULL, 'Giancarlo', 'sweetass');
+INSERT INTO public.galaxy VALUES (3, NULL, false, NULL, 'Giancarlo', 'sweettooshy');
 
 
 --
@@ -457,3 +457,4 @@ ALTER TABLE ONLY public.star
 -- PostgreSQL database dump complete
 --
 
+-- did I write the comments? Let's check.
