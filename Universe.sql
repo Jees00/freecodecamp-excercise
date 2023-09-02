@@ -456,5 +456,3 @@ ALTER TABLE ONLY public.star
 --
 -- PostgreSQL database dump complete
 --
-
--- did I write the comments? Let's check.
